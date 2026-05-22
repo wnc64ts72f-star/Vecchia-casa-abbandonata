@@ -1,2 +1,2 @@
 # Vecchia-casa-abbandonata
-A little twine story in italian for my pupils
+A little twine story in Italian for my pupils
